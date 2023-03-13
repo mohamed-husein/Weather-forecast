@@ -1,0 +1,77 @@
+name: weather
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  animated_splash_screen: ^1.3.0
+  another_flushbar: ^1.12.29
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_screenutil: ^5.7.0
+  flutter_svg: ^2.0.3
+  fluttertoast: ^8.2.1
+  geocoding: ^2.0.5
+  geolocator: ^9.0.2
+  get: ^4.6.5
+  get_it: ^7.2.0
+  go_router: ^6.2.0
+  http: ^0.13.5
+  intl: ^0.18.0
+  lottie: ^2.2.0
+  provider: ^6.0.5
+  sleek_circular_slider: ^2.0.1
+  url_launcher: ^6.1.10
+  flutter_launcher_icons: ^0.12.0
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+
+flutter_icons:
+  android: true
+  image_path: "assets/icons/lightning.png"
+  adaptive_icon_foreground: "assets/icons/ic_launcher_foreground.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
+    - assets/weather/
+
+
+  fonts:
+    - family: Rubik
+      fonts:
+        - asset: assets/fonts/Rubik-Medium.ttf
+          weight: 400
+    - family: Russo
+      fonts:
+        - asset: assets/fonts/RussoOne-Regular.ttf
+          weight: 400
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+    - family: Chakra
+      fonts:
+        - asset: assets/fonts/ChakraPetch-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/ChakraPetch-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/ChakraPetch-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/ChakraPetch-SemiBold.ttf
+          weight: 600
