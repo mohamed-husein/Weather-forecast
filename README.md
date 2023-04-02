@@ -36,7 +36,7 @@
 <img align="left" width="30%" src="https://user-images.githubusercontent.com/102866604/229364926-100e68dd-49f7-4aa4-97ff-7079c38cf050.jpg">
 <img align="left" width="30%" src="https://user-images.githubusercontent.com/102866604/229364929-40d6a487-9006-4fdb-9d63-9395893f81ac.jpg">
 <img align="left" width="30%" src="https://user-images.githubusercontent.com/102866604/229364932-076fb59b-4339-4631-a755-6f615d031387.jpg">
-<img align="left" width="30%" src="(https://user-images.githubusercontent.com/102866604/229364935-0b27b828-698d-4d49-b155-b13c908f7016.jpg">
+<img  width="30%" src="(https://user-images.githubusercontent.com/102866604/229364935-0b27b828-698d-4d49-b155-b13c908f7016.jpg">
 
 
 ## Behance Design.
