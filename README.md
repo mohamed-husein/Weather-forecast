@@ -1,4 +1,4 @@
-# Weather Forecase
+# Weather Forecast
 
 •A weather app built with Flutter. Powered by weather data from the OpenWeatherMap API
 
@@ -31,6 +31,9 @@
 - sleek_circular_slider
 - geolocator
 - geocoding
+
+## Weather Forecast Video
+- [Weather App video](https://drive.google.com/file/d/19fKuznmWPkzV3_Df6BXqSshvLkxo3RcS/view?usp=share_link)
 
 ## Screen Shots.
 <img align="left" width="30%" src="https://user-images.githubusercontent.com/102866604/229365239-702799b0-9ff6-4881-998d-d135fd7386e4.jpg">
